@@ -1,5 +1,5 @@
 # Detector de grietas en pavimento rígido
-Rigid_Crack_dectector es una herramienta en Python que utiliza inteligencia artificial para detectar grietas en pavimentos rígidos, especialmente en losas cortas.
+Rigid_Pavement_Crack_Dectector es una herramienta en Python que utiliza inteligencia artificial para detectar grietas en pavimentos rígidos, especialmente en losas cortas.
 
 Es importante tener en cuenta que esta versión es preliminar y está limitada a un entrenamiento con un número reducido de imágenes.      
 

@@ -3,7 +3,6 @@ RIPAV-CD es una herramienta en Python que utiliza inteligencia artificial para d
 
 Es importante tener en cuenta que esta versión es preliminar y está limitada a un entrenamiento con un número reducido de imágenes.      
 
-Atentamente,
 Germán Ahmed Cruz R.
 
 

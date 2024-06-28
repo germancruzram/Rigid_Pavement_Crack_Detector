@@ -1,5 +1,5 @@
 # Detector de grietas en pavimento rígido
-RIPAV-CD es una herramienta en Python que utiliza inteligencia artificial para detectar grietas en pavimentos rígidos, especialmente en losas cortas.
+RIPAV-CD es una herramienta en Python que implementa IA a través del modelo YOLO_NAS para detectar grietas en pavimentos rígidos, particularmente en losas cortas.
 
 Es importante tener en cuenta que esta versión es preliminar y está limitada a un entrenamiento con un número reducido de imágenes.     
 
